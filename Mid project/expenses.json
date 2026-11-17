@@ -1,0 +1,100 @@
+[
+  {
+    "id": "E001",
+    "date": "2026-09-03",
+    "category": "Food",
+    "amount": 320.0,
+    "note": "Canteen lunch and tea"
+  },
+  {
+    "id": "E002",
+    "date": "2026-09-07",
+    "category": "Transport",
+    "amount": 150.0,
+    "note": "Bus fare for the week"
+  },
+  {
+    "id": "E003",
+    "date": "2026-09-12",
+    "category": "Books",
+    "amount": 1200.0,
+    "note": "Python textbook (used)"
+  },
+  {
+    "id": "E004",
+    "date": "2026-09-20",
+    "category": "Entertainment",
+    "amount": 1200.0,
+    "note": "Concert ticket"
+  },
+  {
+    "id": "E005",
+    "date": "2026-09-28",
+    "category": "Food",
+    "amount": 780.0,
+    "note": "Groceries for the week"
+  },
+  {
+    "id": "E006",
+    "date": "2026-10-01",
+    "category": "Rent",
+    "amount": 6000.0,
+    "note": "Hostel monthly rent"
+  },
+  {
+    "id": "E007",
+    "date": "2026-10-02",
+    "category": "Food",
+    "amount": 410.0,
+    "note": "Canteen lunches"
+  },
+  {
+    "id": "E008",
+    "date": "2026-10-04",
+    "category": "Transport",
+    "amount": 200.0,
+    "note": "Bus fare"
+  },
+  {
+    "id": "E009",
+    "date": "2026-10-06",
+    "category": "Books",
+    "amount": 850.0,
+    "note": "Calculus workbook"
+  },
+  {
+    "id": "E010",
+    "date": "2026-10-08",
+    "category": "Food",
+    "amount": 650.0,
+    "note": "Groceries"
+  },
+  {
+    "id": "E011",
+    "date": "2026-10-10",
+    "category": "Entertainment",
+    "amount": 300.0,
+    "note": "Cafe with classmates"
+  },
+  {
+    "id": "E012",
+    "date": "2026-10-15",
+    "category": "Transport",
+    "amount": 350.0,
+    "note": "Ride-share to exam centre"
+  },
+  {
+    "id": "E013",
+    "date": "2026-10-17",
+    "category": "Other",
+    "amount": 250.0,
+    "note": "Printing and photocopies"
+  },
+  {
+    "id": "E014",
+    "date": "2026-11-15",
+    "category": "Books",
+    "amount": 456.0,
+    "note": "df"
+  }
+]
